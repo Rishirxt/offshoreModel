@@ -1,0 +1,21 @@
+employee_id,mac_address,full_name,role,shift_group,ppe_compliant_baseline
+EMP-001,39:0C:8C:7D:72:47,Crew Member 01,Roughneck,A,0.95
+EMP-002,2C:D8:10:0F:2F:6F,Crew Member 02,Motor Man,A,0.94
+EMP-003,0D:65:D6:70:E5:8E,Crew Member 03,Derrickman,A,0.96
+EMP-004,51:D8:AE:8E:4F:6E,Crew Member 04,Safety Officer,A,0.89
+EMP-005,C2:31:B7:B0:87:16,Crew Member 05,Electrician,A,0.94
+EMP-006,C1:28:96:B9:62:23,Crew Member 06,Derrickman,A,0.95
+EMP-007,94:28:77:33:C2:8E,Crew Member 07,Electrician,A,0.95
+EMP-008,BA:53:BD:B5:6B:88,Crew Member 08,Roughneck,A,0.95
+EMP-009,57:7D:53:EC:C2:8A,Crew Member 09,Crane Operator,A,0.9
+EMP-010,A6:1C:75:10:A1:CD,Crew Member 10,Roustabout,A,0.89
+EMP-011,A1:6C:FF:CA:EA:49,Crew Member 11,Roustabout,B,0.9
+EMP-012,86:DB:CC:B9:70:46,Crew Member 12,Crane Operator,B,0.93
+EMP-013,18:38:4E:51:D8:20,Crew Member 13,Technician,B,0.92
+EMP-014,EF:80:05:3A:88:AE,Crew Member 14,Roughneck,B,0.91
+EMP-015,50:E8:01:86:5B:36,Crew Member 15,Roustabout,B,0.97
+EMP-016,65:4E:BF:52:00:A5,Crew Member 16,Electrician,B,0.88
+EMP-017,B9:9D:7A:1D:7B:28,Crew Member 17,Roughneck,B,0.96
+EMP-018,23:40:41:F3:54:87,Crew Member 18,Crane Operator,B,0.98
+EMP-019,D8:6C:66:9F:CC:BF,Crew Member 19,Electrician,B,0.98
+EMP-020,E7:3D:7E:73:20:AD,Crew Member 20,Derrickman,B,0.94

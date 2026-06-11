@@ -1,0 +1,10 @@
+camera_zone_id,camera_id,beacon_zone_id,location,coverage
+CZ-01,C1,B1,Heli Deck,Full zone
+CZ-02,C2,B2,Upper Deck walkway,Partial
+CZ-03,C2,B2,Upper Deck stairwell,Partial
+CZ-04,C3,B3,Mezzanine centre,Full zone
+CZ-05,C4,B5,Main Deck centre,Full zone
+CZ-06,C4,B5,Main Deck east,Partial
+CZ-07,C3,B4,Battery Room entrance,Red zone
+CZ-08,C5,B6,Boat Landing approach,Red zone
+CZ-09,C5,B5,Main Deck west,Partial
