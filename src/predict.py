@@ -3,7 +3,8 @@ import pandas as pd
 
 from config import (
     FEATURES,
-    MODEL_PATH
+    MODEL_PATH,
+    EXPANDED_CANDIDATES_PATH
 )
 
 from rules import apply_rules
@@ -22,7 +23,7 @@ print("Model Loaded\n")
 # Example Candidate Pool
 # ------------------------------------
 
-candidates = pd.read_csv("../data/expanded_candidates.csv")
+candidates = pd.read_csv(EXPANDED_CANDIDATES_PATH)
 
 # ------------------------------------
 # Model Prediction
